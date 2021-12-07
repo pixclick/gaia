@@ -9,11 +9,11 @@ pricing:
       unit : month
       services:
         - 6 cameras installed at your premise
-        - Analytic dashboard
+        - No Analytics dashboard
         - Monthly test improvement plan
-	- No RFID
+        - No RFID
         - Business hours Tech Support
-	- 5 Months
+        - 5 Months
       button:
         label : "Signup"
         link : "#"
@@ -24,11 +24,11 @@ pricing:
       unit : month
       services:
         - 6 cameras installed at your premise
-        - Analytic dashboard
+        - Analytics dashboard
         - Monthly test improvement plan
-	- No RFID
+        - No RFID
         - 24/7 Tech Support
-	- 12 Months all year
+        - 12 Months all year
       button:
         label : "Signup"
         link : "#"
@@ -39,11 +39,11 @@ pricing:
       unit : month
       services:
         - 6 cameras installed at your premise
-        - Analytic dashboard
+        - Analytics dashboard
         - Weekly improvement plan
-	- RFID certification plan
+        - RFID certification plan
         - 24/7 Tech Support
-	- 12 Months all year
+        - 12 Months all year
       button:
         label : "Signup"
         link : "#"
@@ -53,12 +53,12 @@ pricing:
       price : $15,000
       unit : month
       services:
-        - 6 cameras installed at your premise
+        - 12 cameras installed at your premise
         - Analytics dashboard
         - Daily improvement plan
-	- RFID certification plan 
+        - RFID certification plan 
         - 24/7 Tech Support
-	- 12 Months all year
+        - 12 Months all year
       button:
         label : "Signup"
         link : "#"
