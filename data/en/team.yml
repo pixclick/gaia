@@ -5,8 +5,7 @@ team:
   team_member :
     # team member loop
     - name : Bader
-      image_webp : images/team/team-1.webp
-      image : images/team/team-1.jpg
+      image : images/team/bader.png
       designation : Hardware Lead
       content : Hardware engineer by training with a background integrating hardware and software infrastructure.
       social :
@@ -21,7 +20,6 @@ team:
         
     # team member loop
     - name : Chris
-      image_webp : images/team/team-2.webp
       image : images/team/team-2.jpg
       designation : Product Management Lead
       content : Lawyer by training with 8+ years in B2B product management working with global multinational clients on complex data led products.
@@ -37,8 +35,7 @@ team:
         
     # team member loop
     - name : Enrico
-      image_webp : images/team/team-3.webp
-      image : images/team/team-3.jpg
+      image : images/team/enrico.png
       designation : Digital Transformation Lead
       content : Technologist at heart with 20+ years of experience in guiding teams and companies through strategic technology migrations, digital acceleration and transformation.
       social :
@@ -69,8 +66,7 @@ team:
         
     # team member loop
     - name : Monica
-      image_webp : images/team/team-4.webp
-      image : images/team/team-4.jpg
+      image : images/team/monica.png
       designation : Financial Management Lead
       content : Experienced financial analyst in the B2B space with experience of preparing valuations and materials for three fundraising rounds for XXX.
       social :
