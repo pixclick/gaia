@@ -3,25 +3,26 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : We’re A Green Tech Company.
+  content : "Object recognition and tracking throughout process provides tracking for process optimization."
+
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : Sharable Bale Purity Data
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : RFID technology allows producers to share granular data about bales with buyers.
       
       # feature item loop
-    - title : Easy Customization
+    - title : Alerts About Risky Items
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Alerts about items that risk causing plant shutdowns before they enter key processes.
 
       # feature item loop
-    - title : SEO Optimized
+    - title : More Accurate Recognition
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Increased number of objects correctly sorted due to increased recognition of objects.
       
       # feature item loop
-    - title : Easy Customization
+    - title : Automated Oversight
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Computer vision system observes and identified waste throughout the process. 
