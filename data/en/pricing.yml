@@ -5,60 +5,60 @@ pricing:
   pricing_table :
     # pricing table loop
     - name : Free
-      price : $99
+      price : $0
       unit : month
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - 6 cameras installed at your premise
+        - Analytic dashboard
+        - Monthly test improvement plan
+	- No RFID
+        - Business hours Tech Support
+	- 5 Months
       button:
         label : "Signup"
         link : "#"
       
     # pricing table loop
     - name : Silver
-      price : $149
+      price : $7000
       unit : month
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
+        - 6 cameras installed at your premise
+        - Analytic dashboard
+        - Monthly test improvement plan
+	- No RFID
         - 24/7 Tech Support
+	- 12 Months all year
       button:
         label : "Signup"
         link : "#"
         
     # pricing table loop
     - name : Gold
-      price : $199
+      price : $10,000
       unit : month
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
+        - 6 cameras installed at your premise
+        - Analytic dashboard
+        - Weekly improvement plan
+	- RFID certification plan
         - 24/7 Tech Support
+	- 12 Months all year
       button:
         label : "Signup"
         link : "#"
         
     # pricing table loop
     - name : Platinum
-      price : $299
+      price : $15,000
       unit : month
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
+        - 6 cameras installed at your premise
+        - Analytics dashboard
+        - Daily improvement plan
+	- RFID certification plan 
         - 24/7 Tech Support
+	- 12 Months all year
       button:
         label : "Signup"
         link : "#"
