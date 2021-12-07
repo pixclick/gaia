@@ -16,7 +16,7 @@ pricing:
         - 5 Months
       button:
         label : "Signup"
-        link : "#"
+        link : "#contact"
       
     # pricing table loop
     - name : Silver
@@ -31,7 +31,7 @@ pricing:
         - 12 Months all year
       button:
         label : "Signup"
-        link : "#"
+        link : "#contact"
         
     # pricing table loop
     - name : Gold
@@ -46,7 +46,7 @@ pricing:
         - 12 Months all year
       button:
         label : "Signup"
-        link : "#"
+        link : "#contact"
         
     # pricing table loop
     - name : Platinum
@@ -61,4 +61,4 @@ pricing:
         - 12 Months all year
       button:
         label : "Signup"
-        link : "#"
+        link : "#contact"
