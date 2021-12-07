@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/Trees.svg"
+  bg_image : "iimages/backgrounds/Trees.svg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Gaia Tech Labs"
+  content : "SEE. SORT. SAVE."
+  button:
+    enable : true
+    label : "Explore Us"
+    link : "#services"
