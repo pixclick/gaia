@@ -20,7 +20,7 @@ team:
         
     # team member loop
     - name : Chris
-      image : images/team/team-2.jpg
+      image : images/team/chris.png
       designation : Product Management Lead
       content : Lawyer by training with 8+ years in B2B product management working with global multinational clients on complex data led products.
       social :
@@ -81,8 +81,7 @@ team:
     
     # team member loop
     - name : Sasha
-      image_webp : images/team/team-3.webp
-      image : images/team/team-3.jpg
+      image_webp : images/team/sasha.png
       designation : Software Development Lead
       content : 9+ years experience in software development and engineering leadership in global IT companies.
       social :
