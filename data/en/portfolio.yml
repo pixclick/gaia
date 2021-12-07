@@ -4,12 +4,12 @@ portfolio:
   title : Our Offering 
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
+    - name : Cameras
       image : images/portfolio/portfolio-1.png
       image_webp : images/portfolio/portfolio-1.png
       categories : ["Computer Vision"]
       content : Computer vision to improve your operational efficiency.
-      link : "#"
+      link : "images/portfolio/architecture.svg"
       
     # portfolio item loop
     - name : Monitoring
@@ -17,15 +17,15 @@ portfolio:
       image_webp : images/portfolio/portfolio-2.png
       categories : ["Monitoring & Alerting"]
       content : To detect unwanted material in your process. 
-      link : "#"
+      link : "images/portfolio/architecture.svg"
       
     # portfolio item loop
-    - name : Clock Product
+    - name : Certification
       image : images/portfolio/portfolio-3.png
       image_webp : images/portfolio/portfolio-3.png
       categories : ["Quality Assurance"]
-      content : Confirm with your custoemrs the quality of your product.
-      link : "#"
+      content : Confirm with your customers the quality of your product.
+      link : "images/portfolio/architecture.svg"
       
 button:
   enable : true
