@@ -1,0 +1,5 @@
+baseURL = "https://www.gaiatechlabs.com/"
+languageCode = "en-us"
+title = "GAIA Tech Labs"
+theme = "meghna-hugo"
+
