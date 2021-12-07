@@ -1,8 +1,10 @@
 ################################# Service #################################
 service:
-  enable : true
-  title : Our Services
-  image : "images/backgrounds/architecture.svg"
+  enable : false
+  title : Our platform
+  bg_image : "images/backgrounds/architecture.svg"
+  bg_image_webp : "images/backgrounds/architecture.scg"
+
 #  service_item :
 #    # service item loop
 #    - name : WordPress Theme
