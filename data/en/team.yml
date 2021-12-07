@@ -6,6 +6,7 @@ team:
     # team member loop
     - name : Bader
       image : /images/team/bader.png
+      image_webp : /images/team/bader.webp
       designation : Hardware Lead
       content : Hardware engineer by training with a background integrating hardware and software infrastructure.
       social :
@@ -21,6 +22,7 @@ team:
     # team member loop
     - name : Chris
       image : /images/team/chris.png
+      image_webp : /images/team/chris.webp
       designation : Product Management Lead
       content : Lawyer by training with 8+ years in B2B product management working with global multinational clients on complex data led products.
       social :
@@ -36,6 +38,7 @@ team:
     # team member loop
     - name : Enrico
       image : /images/team/enrico.png
+      image_webp : /images/team/enrico.webp
       designation : Digital Transformation Lead
       content : Technologist at heart with 20+ years of experience in guiding teams and companies through strategic technology migrations, digital acceleration and transformation.
       social :
@@ -50,6 +53,7 @@ team:
 
     # team member loop
     - name : Ghaith
+      image : /images/team/team-3.png
       image_webp : /images/team/team-3.webp
       image : /images/team/team-3.jpg
       designation : Operations Lead
@@ -67,6 +71,7 @@ team:
     # team member loop
     - name : Monica
       image : /images/team/monica.png
+      image_webp : /images/team/monica.webp
       designation : Financial Management Lead
       content : Experienced financial analyst in the B2B space with experience of preparing valuations and materials for three fundraising rounds for XXX.
       social :
@@ -81,7 +86,8 @@ team:
     
     # team member loop
     - name : Sasha
-      image_webp : /images/team/sasha.png
+      image : /images/team/sasha.png
+      image_webp : /images/team/sasha.webp
       designation : Software Development Lead
       content : 9+ years experience in software development and engineering leadership in global IT companies.
       social :
