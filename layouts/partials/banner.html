@@ -4,6 +4,13 @@
 {{ with $data.banner.banner }}
 {{"<!-- Welcome Slider-->" | safeHTML}}
 <section class="hero-area" style='background-image: url("{{ .bg_image_webp | absURL }}")'>
+	<!--	Dirty fix to disable  hero-area:before pseudo tag that makes the banner color ugly. Consider to remove when find a good fix. -->
+	<style id="some-css" type="text/css">
+		.hero-area:before {
+			display: none;
+		}
+	</style>
+	
 	<!-- this image is for trigger this section fallback background image -->
 	<img class="d-none" src="{{ .bg_image_webp | absURL }}" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'"/>
 
