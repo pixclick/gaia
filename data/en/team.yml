@@ -53,9 +53,8 @@ team:
 
     # team member loop
     - name : Ghaith
-      image : /images/team/team-3.png
-      image_webp : images/team/team-3.webp
-      image : /images/team/team-3.jpg
+      image : /images/team/ghaith.png
+      image_webp : images/team/ghaith.webp
       designation : Operations Lead
       content : Civil engineer by training with extensive professional experience in complex global telecom operations.
       social :
