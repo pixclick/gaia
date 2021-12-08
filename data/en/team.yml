@@ -10,14 +10,8 @@ team:
       designation : Hardware Lead
       content : Hardware engineer by training with a background integrating hardware and software infrastructure.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : https://www.linkedin.com/in/baderkhalifeh
         
     # team member loop
     - name : Chris
@@ -26,14 +20,8 @@ team:
       designation : Product Management Lead
       content : Lawyer by training with 8+ years in B2B product management working with global multinational clients on complex data led products.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : https://www.linkedin.com/in/c-m-bell
         
     # team member loop
     - name : Enrico
@@ -42,14 +30,8 @@ team:
       designation : Digital Transformation Lead
       content : Technologist at heart with 20+ years of experience in guiding teams and companies through strategic technology migrations, digital acceleration and transformation.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : www.linkedin.com/in/enricoromani
 
     # team member loop
     - name : Ghaith
@@ -58,14 +40,8 @@ team:
       designation : Operations Lead
       content : Civil engineer by training with extensive professional experience in complex global telecom operations.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.linkedin.com/in/ghaithalhassan"
         
     # team member loop
     - name : Monica
@@ -74,14 +50,8 @@ team:
       designation : Financial Management Lead
       content : Experienced financial analyst in the B2B space with experience of preparing valuations and materials for three fundraising rounds for XXX.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : https://www.linkedin.com/in/monica-slavova-815b6934
     
     # team member loop
     - name : Sasha
@@ -90,13 +60,16 @@ team:
       designation : Software Development Lead
       content : 9+ years experience in software development and engineering leadership in global IT companies.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : https://www.linkedin.com/in/oleksandr-baliev-37744038
 
 
+
+#        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+#          link : "#"
+#        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+#          link : "#"
+#        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+#          link : "#"
+#        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+#          link : "#"
