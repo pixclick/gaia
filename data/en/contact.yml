@@ -3,7 +3,7 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : We are a group of students taht in the context of the Entrepreneurship Exam in our MBA studies at ESMT did this exercise. That said, we believe that the idea might really have legs! So, in the unlikely eventuality, you happen to be an angel investor looking for an idea to finance... do reach out to us! We can tell you more...
+  content : We are a group of students that in the context of the Entrepreneurship Exam in our MBA studies at ESMT did this exercise. That said, we believe that the idea might really have legs! So, in the unlikely eventuality, you happen to be an angel investor looking for an idea to finance... do reach out to us! We can tell you more. (Linus promised will take only 10%!)
 
   # Contact details
   contact_list:
@@ -17,7 +17,7 @@ contact:
       info : "Fax: +000-00-000-000"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@ptmba2020.esmt.org"
+      info : "Email: sales@gaiatechlabs.com"
 
 
   # Contact form

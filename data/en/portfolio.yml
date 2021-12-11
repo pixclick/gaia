@@ -9,7 +9,7 @@ portfolio:
       image_webp : images/portfolio/portfolio-1.png
       categories : ["Computer Vision"]
       content : Computer vision to improve your operational efficiency.
-      link : "images/backgrounds/architecture.svg"
+      link : "images/backgrounds/architecture.png"
       
     # portfolio item loop
     - name : Monitoring
@@ -17,7 +17,7 @@ portfolio:
       image_webp : images/portfolio/portfolio-2.png
       categories : ["Monitoring & Alerting"]
       content : To detect unwanted material in your process. 
-      link : "images/backgrounds/architecture.svg"
+      link : "images/backgrounds/architecture.png"
       
     # portfolio item loop
     - name : Certification
@@ -25,4 +25,4 @@ portfolio:
       image_webp : images/portfolio/portfolio-3.png
       categories : ["Quality Assurance"]
       content : Confirm with your customers the quality of your product.
-      link : "images/backgrounds/architecture.svg"
+      link : "images/backgrounds/architecture.png"

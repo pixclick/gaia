@@ -2,8 +2,8 @@
 service:
   enable : false
   title : Our platform
-  bg_image : "images/backgrounds/architecture.svg"
-  bg_image_webp : "images/backgrounds/architecture.scg"
+  bg_image : "images/backgrounds/architecture.png"
+  bg_image_webp : "images/backgrounds/architecture.webp"
 
 #  service_item :
 #    # service item loop
